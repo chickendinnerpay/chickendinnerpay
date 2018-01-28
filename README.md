@@ -1,5 +1,5 @@
 ![ChickenDinner](https://github.com/chickendinnerpay/chickendinner/raw/master/src/qt/res/icons/bitcoin.png "ChickenDinner")
-DINNER Core integration/staging tree
+ChickenDinner Core integration/staging tree
 =====================================
 [![Build Status](https://travis-ci.org/chickendinnerpay/chickendinner.svg?branch=master)](https://travis-ci.org/chickendinnerpay/chickendinner)
 
